@@ -5,6 +5,7 @@ Hargai Refferal : https://t.me/BitcoinClick_bot?start=OhEd
 # Cara Install 
 $ pkg update && pkg upgrade<br>
 $ pkg install python git unzip<br>
+$ pip install --upgrade pip<br>
 $ git clone https://github.com/Soerja775/BTCClickBot<br>
 $ cd BTCClickBot<br>
 $ unzip btcclickbot.zip<br>
