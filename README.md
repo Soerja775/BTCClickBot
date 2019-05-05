@@ -13,4 +13,4 @@ $ python main.py phone_number<br>
 # Note :
 - Bisa Menggunakan Nomor Luar/ID, Syarat Input Nomor : python main.py +62********* / python main.py +1**********
 - Input OTP
-- And Happy Mining
+- And Happy Mining :)
