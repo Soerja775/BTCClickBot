@@ -1,6 +1,6 @@
 # BTCClickBot
 # Link BTCClickBot Telegram
-Hargai Refferal : https://t.me/BitcoinClick_bot?start=OhEd
+Hargai Refferal : https://t.me/BitcoinClick_bot?start=ygzz
 
 # Cara Install 
 $ pkg update && pkg upgrade<br>
